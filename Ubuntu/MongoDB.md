@@ -2,13 +2,13 @@
 
 #### Start
 ```bash
-sudo systemctl start mongodb
+sudo systemctl start mongod
 ```
 #### Stop
 ```bash
-sudo systemctl stop mongodb
+sudo systemctl stop mongod
 ```
 #### Check status
 ```bash
-sudo systemctl start mongodb
+sudo systemctl status mongod
 ```

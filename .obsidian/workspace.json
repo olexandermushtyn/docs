@@ -11,14 +11,6 @@
             "id": "d9d75d2dd7a311b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ffaffae0b6595121",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Ubuntu/MongoDB.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e86e70accbe897ef",
+  "active": "d9d75d2dd7a311b6",
   "lastOpenFiles": [
     "Ubuntu/MongoDB.md",
     "Ubuntu"
